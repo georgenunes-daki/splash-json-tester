@@ -1,0 +1,32 @@
+{
+  "type": "splash",
+  "version": 1,
+  "background": {
+    "type": "gradient",
+    "from": "#1759ff",
+    "to": "#0f37a6",
+    "angle": 135
+  },
+  "logo": {
+    "src": "daki",
+    "tint": "#ffffff",
+    "size": 96
+  },
+  "title": {
+    "text": "Cupom de R$ 30",
+    "font": "Praktika Condensed",
+    "color": "#ffc431",
+    "size": 48
+  },
+  "subtitle": {
+    "text": "na sua primeira compra",
+    "color": "#ffffff",
+    "size": 18
+  },
+  "cta": {
+    "label": "Começar",
+    "background": "#ffc431",
+    "color": "#272727"
+  },
+  "duration": 2500
+}
